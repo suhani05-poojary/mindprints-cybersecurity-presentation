@@ -105,6 +105,10 @@ The study shows that:
 
 ![Presentation](presentation_photos/presentation3.jpg)
 
+## 📜 Certificate of Participation:
+
+![Certificate](certificates/mindprint_certificate.jpg)
+
 
 ## 📚 References
 
